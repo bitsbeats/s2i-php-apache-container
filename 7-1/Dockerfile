@@ -1,4 +1,4 @@
-FROM centos/php-71-centos7
+FROM registry.centos.org/centos/php-71-centos7
 
 USER 0
 
